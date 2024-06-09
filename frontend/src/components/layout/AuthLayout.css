@@ -1,0 +1,9 @@
+header.flex.justify-center.items-center.py-3.h-20.shadow-md.bg-white{
+    margin-top: 3%;
+}
+
+.img-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,59 @@
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form input {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.otp-form input {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+  width: 80%;
+}
+
+.login-form button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button{
+  background: #00acb4 ;
+  width: 100%;
+}
+
+.otp-form button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 86%;
+}
+
+.message {
+  margin-top: 20px;
+  color: red;
+}
+
+.forgot-password {
+  margin-top: 20px;
+}
+
+.forgot-password a {
+  color: blue;
+  text-decoration: none;
+}
